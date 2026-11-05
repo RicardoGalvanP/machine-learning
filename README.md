@@ -1,6 +1,6 @@
 # Machine Learning
 
-Supervised learning projects built in Python and scikit-learn during my Master's in Applied Artificial Intelligence at Tecnológico de Monterrey. The focus is on honest evaluation: baselines, leakage-free pipelines, cross-validation, error costs and responsible use of models. Each folder contains a README and English and Spanish notebooks.
+Machine learning projects built in Python during my Master's in Applied Artificial Intelligence at Tecnológico de Monterrey. The focus is on honest evaluation: baselines, leakage-free pipelines, cross-validation, error costs and responsible use of models. Each folder contains a README and English and Spanish notebooks.
 
 ## Projects
 
