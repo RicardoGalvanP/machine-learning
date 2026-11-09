@@ -2,8 +2,8 @@
 
 ## Version
 
-- en: English
-- es: Spanish
+- English: *en
+- Spanish: *es
 
 ## Problem Statement
 
