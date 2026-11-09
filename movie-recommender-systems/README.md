@@ -2,8 +2,8 @@
 
 ## Version
 
-- English: [`movie_recommender_systems_en.ipynb`](movie_recommender_systems_en.ipynb) (outputs cleared; re-run it in Colab)
-- Spanish: [`movie_recommender_systems_es.ipynb`](movie_recommender_systems_es.ipynb) (with the outputs from the real run)
+- en: English
+- es: Spanish
 
 ## Problem Statement
 
